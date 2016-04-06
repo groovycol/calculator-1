@@ -23,7 +23,12 @@ def multiply(num1, num2):
     return num1 * num2
 
 def divide(num1, num2):
-    pass
+    """
+    Divides the first input by the second, returning a floating point
+
+    """
+
+    return float(num1 / num2)
 
 def square(num1):
     pass
