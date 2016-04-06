@@ -1,15 +1,26 @@
 def add(num1, num2):
-    """Adds two numbers together.
     """
+    Adds two numbers together.
+
+    """
+
     return num1 + num2
 
 def subtract(num1, num2):
-    """Returns the second number subtracted from the first
     """
+    Returns the second number subtracted from the first
+
+    """
+
     return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    """
+    Multiplies the two inputs together
+
+    """
+
+    return num1 * num2
 
 def divide(num1, num2):
     pass
