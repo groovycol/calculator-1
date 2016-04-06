@@ -39,7 +39,11 @@ def square(num1):
     return num1 * num1
 
 def cube(num1):
-    pass
+    """
+    Returns the cube of the input
+
+    """
+    return num1 * num1 * num1
 
 def power(num1, num2):
     pass
